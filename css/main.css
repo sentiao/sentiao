@@ -1,17 +1,23 @@
 html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: #666;
+    height: 100%;
     font:
         Helvetica,
         Arial,
         sans-serif;
-    background: #666;
 }
 
 body {
     margin: 0 auto;
     padding: 30px 30px;
-    width: 640px;
-    height: 100%;
+    border: 0;
     background: #fff;
+    height: 100%;
+    width: 640px;
+    color: #000;
 }
 
 h1,
