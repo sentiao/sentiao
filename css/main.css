@@ -1,28 +1,19 @@
 html {
-    margin: 0;
-    padding: 0;
-    border: 0;
     background-color: #666;
     height: 100%;
-    font:
-        Helvetica,
-        Arial,
-        sans-serif;
+    font: Helvetica, Arial, sans-serif;
 }
 
 body {
     margin: 0 auto;
-    padding: 30px 30px;
-    border: 0;
+    padding: 30px;
     background-color: #fff;
     height: 100%;
     width: 640px;
     color: #000;
 }
 
-h1,
-h2,
-{
+h1, h2 {
     margin: 0;
     padding: 0;
     text-align: center;
